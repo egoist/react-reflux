@@ -38,13 +38,13 @@ var App = React.createClass({
   render: function() {
     return <button onClick={actions.updateNumber}>{this.state.n}</button>
   }
-})
+});
 
 React.render(<App/>, document.body);
 ```
 
 ### Ajax data
 
-What I have to note is that you are supposed to make ajax outside `store`. Details coming soon.
+What I have to note is that you are supposed to make ajax calls outside `store`, like in an independent API util. Details coming soon.
 
 ![ajax data](http://i.stack.imgur.com/DodsD.png)
