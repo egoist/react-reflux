@@ -2,6 +2,17 @@
 
 Just some stupid experiments, with flux your components become extremely simple and readable, less logic related stuffs there. You handle everything in the store, what the component has to do is telling the store what to do, that's it.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [react-reflux](#react-reflux)
+  - [Lab](#lab)
+    - [Simple counter](#simple-counter)
+    - [Ajax data](#ajax-data)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Lab
 
 ### Simple counter
