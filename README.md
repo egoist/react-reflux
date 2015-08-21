@@ -1,6 +1,6 @@
 # react-reflux
 
-some experiments
+Just some stupid experiments, with flux your components become extremely simple and readable, less logic related stuffs there. You handle everything in the store, what the component has to do is telling the store what to do, that's it.
 
 ## Lab
 
