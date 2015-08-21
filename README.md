@@ -42,3 +42,9 @@ var App = React.createClass({
 
 React.render(<App/>, document.body);
 ```
+
+### Ajax data
+
+What I have to note is that you are supposed to make ajax outside `store`. Details coming soon.
+
+![ajax data](http://i.stack.imgur.com/DodsD.png)
